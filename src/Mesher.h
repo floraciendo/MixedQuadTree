@@ -60,7 +60,7 @@ using Clobscode::QuadEdge;
 using Clobscode::Polyline;
 using Clobscode::RefinementRegion;
 
-#define VTKOUT false //CL Debbuging
+#define VTKOUT true //CL Debbuging
 
 namespace Clobscode
 {
